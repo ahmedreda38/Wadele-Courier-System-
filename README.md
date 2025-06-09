@@ -160,12 +160,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
-## License
-
-[MIT](LICENSE) (or specify your license here)
-
----
-
 ## Acknowledgements
 
 - Developed using Microsoft Visual Studio and .NET WinForms.
