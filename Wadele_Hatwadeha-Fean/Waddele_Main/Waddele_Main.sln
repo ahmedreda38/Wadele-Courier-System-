@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Waddele_Main", "Waddele_Main\Waddele_Main.csproj", "{16224A0D-1185-40B2-A55A-0770CD6C2EAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16224A0D-1185-40B2-A55A-0770CD6C2EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16224A0D-1185-40B2-A55A-0770CD6C2EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16224A0D-1185-40B2-A55A-0770CD6C2EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16224A0D-1185-40B2-A55A-0770CD6C2EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54401051-6B9C-4926-87F7-22C859519D67}
+	EndGlobalSection
+EndGlobal

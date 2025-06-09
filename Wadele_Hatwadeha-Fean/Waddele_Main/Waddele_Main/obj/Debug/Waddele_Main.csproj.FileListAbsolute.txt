@@ -1,0 +1,128 @@
+C:\Users\Ahmed\source\repos\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.csproj.AssemblyReference.cache
+C:\Users\Ahmed\source\repos\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.Properties.Resources.resources
+C:\Users\Ahmed\source\repos\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.csproj.GenerateResource.cache
+C:\Users\Ahmed\source\repos\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\source\repos\Waddele_Main\Waddele_Main\bin\Debug\Waddele_Main.exe.config
+C:\Users\Ahmed\source\repos\Waddele_Main\Waddele_Main\bin\Debug\Waddele_Main.exe
+C:\Users\Ahmed\source\repos\Waddele_Main\Waddele_Main\bin\Debug\Waddele_Main.pdb
+C:\Users\Ahmed\source\repos\Waddele_Main\Waddele_Main\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Ahmed\source\repos\Waddele_Main\Waddele_Main\obj\Debug\Waddele_.EF205AC4.Up2Date
+C:\Users\Ahmed\source\repos\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.exe
+C:\Users\Ahmed\source\repos\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.pdb
+C:\Users\Ahmed\source\repos\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.main.resources
+C:\Users\Ahmed\source\repos\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.Admin.resources
+C:\Users\Ahmed\source\repos\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.customer.resources
+C:\Users\Ahmed\source\repos\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.courier.resources
+C:\Users\Ahmed\Desktop\Waddele_Main\Waddele_Main\bin\Debug\Waddele_Main.exe.config
+C:\Users\Ahmed\Desktop\Waddele_Main\Waddele_Main\bin\Debug\Waddele_Main.exe
+C:\Users\Ahmed\Desktop\Waddele_Main\Waddele_Main\bin\Debug\Waddele_Main.pdb
+C:\Users\Ahmed\Desktop\Waddele_Main\Waddele_Main\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Ahmed\Desktop\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.courier.resources
+C:\Users\Ahmed\Desktop\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.customer.resources
+C:\Users\Ahmed\Desktop\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.main.resources
+C:\Users\Ahmed\Desktop\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.Admin.resources
+C:\Users\Ahmed\Desktop\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.csproj.GenerateResource.cache
+C:\Users\Ahmed\Desktop\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\Waddele_Main\Waddele_Main\obj\Debug\Waddele_.EF205AC4.Up2Date
+C:\Users\Ahmed\Desktop\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.exe
+C:\Users\Ahmed\Desktop\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.pdb
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\bin\Debug\Waddele_Main.exe.config
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\bin\Debug\Waddele_Main.exe
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\bin\Debug\Waddele_Main.pdb
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\obj\Debug\Waddele_Main.csproj.AssemblyReference.cache
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\obj\Debug\Waddele_Main.courier.resources
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\obj\Debug\Waddele_Main.customer.resources
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\obj\Debug\Waddele_Main.main.resources
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\obj\Debug\Waddele_Main.Admin.resources
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\obj\Debug\Waddele_Main.Properties.Resources.resources
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\obj\Debug\Waddele_Main.csproj.GenerateResource.cache
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\obj\Debug\Waddele_Main.csproj.CoreCompileInputs.cache
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\obj\Debug\Waddele_Main.csproj.CopyComplete
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\obj\Debug\Waddele_Main.exe
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\obj\Debug\Waddele_Main.pdb
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\bin\Debug\stdole.dll
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\obj\Debug\Waddele_Main.CUSTMOER_REPORT.resources
+C:\Users\loaym\سطح المكتب\Waddele_Main1\Waddele_Main\obj\Debug\Waddele_Main.COURIER_REPORT.resources
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\Waddele_Main.exe.config
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\Waddele_Main.exe
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\Waddele_Main.pdb
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\stdole.dll
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.csproj.AssemblyReference.cache
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.courier.resources
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.customer.resources
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.CUSTMOER_REPORT.resources
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.COURIER_REPORT.resources
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.main.resources
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.Admin.resources
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.Properties.Resources.resources
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.csproj.GenerateResource.cache
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.csproj.CoreCompileInputs.cache
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.csproj.CopyComplete
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.exe
+C:\Users\loaym\سطح المكتب\Mainstream_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.pdb
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\Waddele_Main.exe.config
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\Waddele_Main.exe
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\Waddele_Main.pdb
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\bin\Debug\stdole.dll
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.courier.resources
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.customer.resources
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.CUSTMOER_REPORT.resources
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.COURIER_REPORT.resources
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.main.resources
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.Admin.resources
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.Properties.Resources.resources
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.csproj.GenerateResource.cache
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.csproj.CoreCompileInputs.cache
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.csproj.CopyComplete
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.exe
+C:\Users\loaym\سطح المكتب\SWE_74_Courier_Management_System\Waddele_Main\Waddele_Main\obj\Debug\Waddele_Main.pdb
