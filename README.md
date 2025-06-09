@@ -151,12 +151,6 @@ Wadele_Hatwadeha-Fean/
     </td>
   </tr>
 </table>
-![logo](https://github.com/user-attachments/assets/1ba1d130-1957-419f-8a70-4d31c0232b70)
-![Screenshot 2025-06-09 195119](https://github.com/user-attachments/assets/78c82bb1-8dde-4da1-878a-74226950f918)
-![Screenshot 2025-06-09 195141](https://github.com/user-attachments/assets/1bcb08fb-2f23-446a-aa17-ebe9509a0cc9)
-![Screenshot 2025-06-09 195201](https://github.com/user-attachments/assets/c2d301b4-2590-4353-8813-fa80c74ba1db)
-![Screenshot 2025-06-09 195556](https://github.com/user-attachments/assets/f70f12a2-468d-44e8-bae9-e96214b74ffd)
-![Screenshot 2025-06-09 195613](https://github.com/user-attachments/assets/bd50942d-4a43-4ed9-9da9-4de9badce710)
 
 ---
 
