@@ -117,7 +117,40 @@ Wadele_Hatwadeha-Fean/
 ---
 
 ## Screenshots
+<h2 align="center">Screenshots</h2>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1ba1d130-1957-419f-8a70-4d31c0232b70" alt="Logo" width="200"/>
+</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/78c82bb1-8dde-4da1-878a-74226950f918" alt="Screenshot 1" width="320"/><br>
+      <sub>Login Screen</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1bcb08fb-2f23-446a-aa17-ebe9509a0cc9" alt="Screenshot 2" width="320"/><br>
+      <sub>Main Dashboard</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c2d301b4-2590-4353-8813-fa80c74ba1db" alt="Screenshot 3" width="320"/><br>
+      <sub>Order Management</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f70f12a2-468d-44e8-bae9-e96214b74ffd" alt="Screenshot 4" width="320"/><br>
+      <sub>Customer Records</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github.com/user-attachments/assets/bd50942d-4a43-4ed9-9da9-4de9badce710" alt="Screenshot 5" width="320"/><br>
+      <sub>Settings Panel</sub>
+    </td>
+  </tr>
+</table>
 ![logo](https://github.com/user-attachments/assets/1ba1d130-1957-419f-8a70-4d31c0232b70)
 ![Screenshot 2025-06-09 195119](https://github.com/user-attachments/assets/78c82bb1-8dde-4da1-878a-74226950f918)
 ![Screenshot 2025-06-09 195141](https://github.com/user-attachments/assets/1bcb08fb-2f23-446a-aa17-ebe9509a0cc9)
